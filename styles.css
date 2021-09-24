@@ -2,9 +2,17 @@
 
 #title {
     color: #102618;
-    font-family: "Georgia";
+    font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: center;
+    font-weight: 400;
 }
 .link-name {
-    color: #281020
+    color: #281020;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: large;
+}
+img {
+    height: auto;
+    width: 500
 }
