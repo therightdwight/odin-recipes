@@ -7,6 +7,21 @@
     text-align: center;
     font-weight: 400;
 }
+ul {
+    display: flex;
+    text-align: center;
+    list-style: none;
+}
+ol {
+    display: flex;
+    text-align: center;
+    list-style: none;
+}
+li {
+    display: flex;
+    text-align: center;
+    padding: .5em;
+  }
 .link-name {
     color: #281020;
     background-color: transparent;
