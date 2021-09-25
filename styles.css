@@ -2,17 +2,23 @@
 
 #title {
     color: #102618;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Georgia', 'Times New Roman', Times, serif;
     text-align: center;
     font-weight: 400;
 }
 .link-name {
     color: #281020;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Georgia', 'Times New Roman', Times, serif;
     text-align: center;
     font-size: large;
+    list-style-type: "\1F44D"; 
+}
+.croq-page {
+    background-color: yellow;
+    font-family: 'Georgia', 'Times New Roman', Times, serif;
+    text-align: center;
 }
 img {
-    height: auto;
-    width: 500
+    height: 500px;
+    width: 500px;
 }
