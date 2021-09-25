@@ -37,6 +37,15 @@ li {
     margin-bottom: 4px;
     margin-left: 5px;
   }
+img {
+    padding: .5px;
+    margin-top: 4px;
+    margin-right: 50px;
+    margin-bottom: 4px;
+    margin-left: 50px;
+    height: 500px;
+    width: 700px;
+}
   h1 {
       text-align: center;
   }
@@ -58,13 +67,4 @@ li {
     background-color: transparent;
     font-family: 'Georgia', 'Times New Roman', Times, serif;
     text-align: left;
-}
-img {
-    padding: .5px;
-    margin-top: 4px;
-    margin-right: 50px;
-    margin-bottom: 4px;
-    margin-left: 50px;
-    height: 500px;
-    width: 700px;
 }
