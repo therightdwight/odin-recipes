@@ -2,12 +2,14 @@
 
 #title {
     color: #102618;
+    background-color: transparent;
     font-family: 'Georgia', 'Times New Roman', Times, serif;
     text-align: center;
     font-weight: 400;
 }
 .link-name {
     color: #281020;
+    background-color: transparent;
     font-family: 'Georgia', 'Times New Roman', Times, serif;
     text-align: center;
     font-size: large;
