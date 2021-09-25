@@ -11,7 +11,7 @@
     font-family: 'Georgia', 'Times New Roman', Times, serif;
     text-align: center;
     font-size: large;
-    list-style-type: "\1F44D"; 
+    list-style-type: none; 
 }
 .croq-page {
     background-color: yellow;
@@ -20,5 +20,5 @@
 }
 img {
     height: 500px;
-    width: 500px;
+    width: 700px;
 }
